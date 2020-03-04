@@ -8,5 +8,5 @@ Protocol Buffer (Flutter Example)
 ## 3). export PATH="$PATH":"$HOME/.pub-cache/bin" 
 
 
-# Build Model
+# Compiling protocol buffers
 ## protoc  --dart_out=. ./lib/models/MyObj.proto 
